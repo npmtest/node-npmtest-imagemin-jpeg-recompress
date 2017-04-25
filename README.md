@@ -1,6 +1,6 @@
 # npmtest-imagemin-jpeg-recompress
 
-#### test coverage for  [imagemin-jpeg-recompress (v5.1.0)](https://github.com/imagemin/imagemin-jpeg-recompress#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemin-jpeg-recompress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemin-jpeg-recompress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemin-jpeg-recompress.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemin-jpeg-recompress)
+#### basic test coverage for  [imagemin-jpeg-recompress (v5.1.0)](https://github.com/imagemin/imagemin-jpeg-recompress#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemin-jpeg-recompress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemin-jpeg-recompress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemin-jpeg-recompress.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemin-jpeg-recompress)
 
 #### jpeg-recompress imagemin plugin
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-imagemin-jpeg-recompress/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-imagemin-jpeg-recompress/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-imagemin-jpeg-recompress/build/coverage.html/index.html)
 
@@ -103,7 +103,8 @@
     "version": "5.1.0",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
